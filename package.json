@@ -1,0 +1,14 @@
+{
+  "name": "my-first-game",
+  "version": "1.0.0",
+  "description": "Server App for game",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Kozubov Tymur",
+  "license": "ISC",
+  "dependencies": {
+    "express": "~4.9.8"
+  }
+}
